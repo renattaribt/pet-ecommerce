@@ -17,9 +17,14 @@ Estruturei uma loja virtual completa utilizando a plataforma **Nuvemshop**, com 
 - Google Analytics
 - SEO & UX
 
-### 📸 Prints
-![Página inicial](./loja-inicial.png)
-![Página de produto](./loja-produto.png)
+## 📸 Impressões do Site
+
+### Tela Inicial
+<img src="./pagina-inicial.png" alt="pagina Inicial" width="250"/>
+
+### Tela Home
+<img src="./tela-home.png" alt="Tela Home" width="250"/>
+
 
 ### 🌎 Acesse a loja
 👉 [Link para a loja publicada](https://trainina.lojavirtualnuvem.com.br/) 
