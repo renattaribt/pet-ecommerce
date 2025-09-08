@@ -18,8 +18,8 @@ Estruturei uma loja virtual completa utilizando a plataforma **Nuvemshop**, com 
 - SEO & UX
 
 ### 📸 Prints
-![Página inicial](./images/loja-inicial.png)
-![Página de produto](./images/loja-produto.png)
+![Página inicial](./loja-inicial.png)
+![Página de produto](./loja-produto.png)
 
 ### 🌎 Acesse a loja
-👉 [Link para a loja publicada](https://seudominio.com) 
+👉 [Link para a loja publicada](https://trainina.lojavirtualnuvem.com.br/) 
